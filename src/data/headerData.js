@@ -2,19 +2,10 @@ import my_resume from '../assets/pdf/my_resume.pdf';
 import photo from '../assets/png/profile.png';
 
 export const headerData = {
-  name: 'Soo Jung',
-  title: 'Frontend Developer',
+  name: '김수정',
+  title: '프론트엔드 개발자',
   desciption:
-    'When I put my mind to it, I believe there is nothing that cannot be accomplished. Solving problems and fixing things have always been my forte. Being a developer enriches my life by driving me to learn new skill sets.',
-  image: photo,
-  resumePdf: my_resume,
-};
-
-export const engHeaderData = {
-  name: 'Soo Jung',
-  title: 'Frontend Developer',
-  desciption:
-    '마음을 먹으면 이룰 수 없는 일은 없다고 생각합니다. 문제를 해결하고 문제를 해결하는 것은 항상 저의 특기였습니다. 개발자가 되는 것은 새로운 기술을 배우도록 유도함으로써 삶을 풍요롭게 합니다.',
+    '문제를 해결하는 것과 오작동하는 것을 잘 고치는 게 저의 강점이라 생각합니다. 개발자는 항상 더 배우고 성장할 수 있는 직군이기에 그만큼 어렵고 도전적이지만 보람찬 직군인듯합니다. 진취적인 삶을 살기 바라며 계속 성장해나가는 업체에 저의 발자국을 남기는 것이 목표입니다.',
   image: photo,
   resumePdf: my_resume,
 };

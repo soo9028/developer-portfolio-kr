@@ -1,6 +1,6 @@
 {
-  "homepage": "https://soo9028.github.io/developer-portfolio-kr",
-  "name": "developer-portfolio",
+  "homepage": "https://soo9028.github.io/kr-portfolio",
+  "name": "kr-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

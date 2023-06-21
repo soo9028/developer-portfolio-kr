@@ -35,7 +35,7 @@ export const servicesData = [
 
     {
         id: 6,
-        title: 'Web Development',
+        title: '웹 개발',
         icon: <BsCodeSlash />
     },
     // {
@@ -60,7 +60,7 @@ export const servicesData = [
     // },
     {
         id: 11,
-        title: 'App Development',
+        title: '하이브리드 앱 개발',
         icon: <FaTabletAlt />
     },
     // {

@@ -1,8 +1,7 @@
 export const aboutData = {
-  title: 'Who I am',
-  description1:
-    "My name's Soo Jung. I'm a frontend web and app developer based in Seoul, South Korea.",
+  title: 'About Me',
+  description1: '안녕하세요. 앱•웹 프론트 개발자 김수정입니다.',
   description2:
-    'I work a company that specializes in providing AI model based services to physicians and nurses around the world. During my free time, I like to dive deeper into learning computer programming languages such as TypesScript and Python. I would like to be more skilled in my field and in Back-end arena to become a Full-Stack developer. As a hobby, I like to translate songs and edit videos to post on YouTube.',
+    '안저 데이터에 기반한 AI를 활용한 시력교정 솔루션을 개발하는 업체에 재직중입니다. 뿐만 아니라 어린이들을 위한 근시 예측 플랫폼도 개발중에 있으며, 이외에도 다양한 프로젝트를 맡고 있습니다. 현재 업계 흐름에 따라 타입스크립트와 파이썬도 공부중에 있으며 취미는 운동과 유투브에 직접 번역한 가사 영상을 올리는 것입니다.',
   image: 2,
 };

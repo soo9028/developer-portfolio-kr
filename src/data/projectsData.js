@@ -15,7 +15,7 @@ import thirteen from '../assets/svg/projects/thirteen.svg';
 export const projectsData = [
   {
     id: 1,
-    projectName: 'Family Schedule Management App',
+    projectName: '가족 일정을 한눈에 볼 수 있는 일정 관리 앱',
     projectDesc:
       'This app is made for parents who want to manage their kids" schedules in a smarter, more efficent way.',
     tags: ['React Native', 'Firebase'],
@@ -25,9 +25,9 @@ export const projectsData = [
   },
   {
     id: 2,
-    projectName: 'Patient Management App',
+    projectName: '안과에 내원한 고객 및 환자를 위한 알리미 / 예약 앱',
     projectDesc:
-      'This project won the App Award in 2021 for Medical Field. Patients can reserve new appointments, view parts of their chart, and receive reminder push notifications.',
+      '2021년도 의료부문에서 App Award를 수상한 앱입니다. 비앤빛 안과에 방문한 고객분들이 간편하게 예약 등록, 수정, 취소를 할 수 있으며, 간단한 차트 내용도 확인이 가능합니다. 또한, 레이저 시력교정수술 후 ',
     tags: ['React Native', 'Firebase'],
     code: 'https://github.com/XELAN-dev/bnviit-smartcare-app',
     demo: 'https://play.google.com/store/apps/details?id=com.xelan.bnviitsmartcare&hl=en-KR',
@@ -35,34 +35,35 @@ export const projectsData = [
   },
   {
     id: 3,
-    projectName: 'Demo App for Ophthalmology Clinic',
+    projectName: '통합 루커스 AI 웹페이지',
     projectDesc:
-      'This demo was aimed for physicians and medical practitioners who works at Bnviit Clinic to view AI-model simulated recommendations for refractive surgery on patients.',
-    tags: ['React', 'CSS', 'Material Ui'],
-    code: 'https://github.com/soo9028/loocus-page',
-    demo: 'https://www.loocusvision.com',
+      '안과 의사들을 위한 머신러닝 기술 기반의 ICL 계산기와 적합 레이저 수술을 추천해주는 웹 페이지',
+    tags: ['React', 'CSS', 'Material Ui', 'GA4'],
+    // code: 'https://github.com/VISUWORKS-dev/loocus-integration-front',
+    demo: 'https://www.loocus.co.kr',
+
     image: four,
   },
   {
     id: 4,
-    projectName: 'ICL Calculator Website',
+    projectName: '루커스 비전 AI 웹페이지',
     projectDesc:
-      'This project involves the development of an Android application for viewing and managing patient data.',
-    tags: ['React', 'GA4', 'CSS', 'Material Ui'],
-    // code: 'https://github.com/VISUWORKS-dev/loocus-integration-front',
-    demo: 'https://www.loocus.co.kr',
+      'AI로 적합 레이저 수술을 추천해주는 데모 웹페이지',
+    tags: ['React', 'CSS', 'Material Ui'],
+    code: 'https://github.com/soo9028/loocus-page',
+    // demo: 'https://www.loocusvision.com',
     image: twelve,
   },
-  {
-    id: 5,
-    projectName: 'Map App for Android',
-    projectDesc:
-      'A simple map app for Android mobiles where you can see some major facilities near you by category.',
-    tags: ['Java'],
-    code: 'https://github.com/soo9028/handymap',
-    // demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    image: five,
-  },
+  // {
+  //   id: 5,
+  //   projectName: 'Map App for Android',
+  //   projectDesc:
+  //     'A simple map app for Android mobiles where you can see some major facilities near you by category.',
+  //   tags: ['Java'],
+  //   code: 'https://github.com/soo9028/handymap',
+  //   // demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+  //   image: five,
+  // },
   // {
   //     id: 6,
   //     projectName: 'Uber Lite',

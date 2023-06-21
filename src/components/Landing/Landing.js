@@ -172,11 +172,11 @@ function Landing() {
                   target='_blank'
                   rel='noreferrer'
                 >
-                  <Button className={classes.resumeBtn}>Download CV</Button>
+                  <Button className={classes.resumeBtn}>이력서</Button>
                 </a>
               )}
               <NavLink to='/#contacts' smooth={true} spy='true' duration={2000}>
-                <Button className={classes.contactBtn}>Contact</Button>
+                <Button className={classes.contactBtn}>연락처</Button>
               </NavLink>
             </div>
           </div>
